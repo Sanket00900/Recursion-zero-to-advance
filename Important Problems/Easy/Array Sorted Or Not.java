@@ -1,5 +1,5 @@
 
-public class ArraySortedOrNotRecursion {
+public class ArrayIsSortedOrNot{
     public static boolean isSorted(int[]arr,int startIndex){
         if(startIndex == arr.length - 1){
             return true;
