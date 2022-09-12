@@ -1,6 +1,5 @@
-# Recursion - zero to addvance 🌟
+# Recursion - zero to advance 🌟
 
-<hr>
 
 ⏺️ All Important Problems 
 
